@@ -15,6 +15,13 @@ name = "avr-serial-dfmt"
 version = "0.1.0"
 edition = "2021"
 
+[lib]
+name = "avr_serial_defmt"
+
+[[bin]]
+name = "avr-serial-defmt-example"
+path = "src/main.rs"
+
 [dependencies]
 panic-halt = "0.2.0"
 

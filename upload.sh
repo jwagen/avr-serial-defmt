@@ -7,4 +7,5 @@ avr-objcopy -O ihex $elffile $hexfile
 pymcuprog erase
 pymcuprog write  -f $hexfile
 
-socat /dev/ttyACM0,rawer,b115200 STDOUT | ../defmt/target/release/defmt-print -e $elffile
+#socat /dev/ttyACM0,rawer,b115200 STDOUT | ../defmt/target/release/defmt-print -e $elffile
+socat /dev/ttyACM0,rawer,b115200 STDOUT | defmt-print -e $elffile

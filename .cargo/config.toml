@@ -7,6 +7,7 @@ rustflags = [
     #"-C", "link-arg=-Tlink.x",
     "-C", "link-arg=-Tavr-defmt.x",
     #"-C", "link-arg=-Tdefmoeut.x",
+    #"-C", "link-dead-code",
     "-C", "link-arg=-Wl,--verbose",
     "--print", "link-args",
     "-C", "link-arg=-Wl,-Map=output.map"

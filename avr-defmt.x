@@ -49,4 +49,4 @@ SECTIONS
 
 ASSERT(__DEFMT_MARKER_END < 65534, ".defmt section cannot contain more than 65534 interned strings");
 
-INSERT AFTER .debug_sup;
+INSERT BEFORE .text;
