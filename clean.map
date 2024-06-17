@@ -1,0 +1,1050 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+                              /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o (__udivmodhi4)
+/usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o (exit)
+/usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+                              /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o (__do_copy_data)
+/usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+                              /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o (__do_clear_bss)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ .text          0x00000000        0x0 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text._critical_section_1_0_acquire
+                0x00000000        0x6 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text._critical_section_1_0_release
+                0x00000000        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text._ZN4core9panicking13panic_display17h4b01fc2395a8c8e2E
+                0x00000000        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.unlikely._ZN4core9panicking14panic_explicit17h481dfac8d19d5695E
+                0x00000000        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.__defmt_default_timestamp
+                0x00000000        0x2 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.__defmt_default_panic
+                0x00000000        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.unlikely._ZN5defmt13default_panic19panic_cold_explicit17hc76d03489179fc1dE
+                0x00000000        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"avr-serial-dfmt","tag":"defmt_error","data":"panicked at 'defmt logger taken reentrantly'","disambiguator":"9514924134124073173","crate_name":"avr_serial_dfmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.end     0x00000000        0x2 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"Unwrap of a None option value","disambiguator":"11889740779923244090","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=__internal_Debug}","disambiguator":"5623903170800143477","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=__internal_Display}","disambiguator":"5105756340143410228","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;0]}","disambiguator":"1496926068162433418","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;1]}","disambiguator":"10536548386951068949","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;2]}","disambiguator":"9678487916946283162","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;3]}","disambiguator":"7867055765874347770","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;4]}","disambiguator":"5114171592672092818","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;5]}","disambiguator":"12977982985688608843","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;6]}","disambiguator":"631287792773775748","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;7]}","disambiguator":"6878712030278013782","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;8]}","disambiguator":"8219153170214211011","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;9]}","disambiguator":"13946057443971449809","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;10]}","disambiguator":"10030420351655151754","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;11]}","disambiguator":"4635686410640747080","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;12]}","disambiguator":"12200997203586463781","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;13]}","disambiguator":"2868351995242565157","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;14]}","disambiguator":"12565139071601255938","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;15]}","disambiguator":"13141806140466206014","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;16]}","disambiguator":"16622501748540360307","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;17]}","disambiguator":"13007659163981410993","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;18]}","disambiguator":"12844683538855720851","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;19]}","disambiguator":"15375450244489679408","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;20]}","disambiguator":"4317821207778762992","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;21]}","disambiguator":"7874101577542864772","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;22]}","disambiguator":"7431501951320215570","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;23]}","disambiguator":"5285947113757463800","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;24]}","disambiguator":"10548285220165859340","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;25]}","disambiguator":"10824274717103477469","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;26]}","disambiguator":"14143743382927553707","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;27]}","disambiguator":"1593247842379207038","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;28]}","disambiguator":"11039188123241872514","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;29]}","disambiguator":"17417898046123303431","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;30]}","disambiguator":"7202629930402219332","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;31]}","disambiguator":"8631809746362054120","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;32]}","disambiguator":"16272429875223065264","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;64]}","disambiguator":"6121731455773734980","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;128]}","disambiguator":"13058948007431296655","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;256]}","disambiguator":"6071830990008500999","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;512]}","disambiguator":"17324722442681870450","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;1024]}","disambiguator":"16557899516492068629","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;2048]}","disambiguator":"9181961828661663484","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;4096]}","disambiguator":"3378459846906874342","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;8192]}","disambiguator":"13998293228495794512","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;16384]}","disambiguator":"7135950266177027874","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;32768]}","disambiguator":"11206175375052673183","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;65536]}","disambiguator":"12441142086641314744","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;131072]}","disambiguator":"14572738470052324520","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;262144]}","disambiguator":"2019999768437473047","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;524288]}","disambiguator":"128439123759785649","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;1048576]}","disambiguator":"15166510839523723626","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;2097152]}","disambiguator":"15684360765512473329","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;4194304]}","disambiguator":"11358394535774250435","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;8388608]}","disambiguator":"15899185953651591061","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;16777216]}","disambiguator":"4050654729783625280","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;33554432]}","disambiguator":"10192380076493535175","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;67108864]}","disambiguator":"750387883981942827","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;134217728]}","disambiguator":"848307431615115135","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;268435456]}","disambiguator":"3003602975761855336","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;536870912]}","disambiguator":"13439721638873124792","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;1073741824]}","disambiguator":"4989137785052000666","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;100]}","disambiguator":"17182836879864056874","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;1000]}","disambiguator":"3253278821073730227","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;10000]}","disambiguator":"12130802859299284489","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;100000]}","disambiguator":"14877603488862068310","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;1000000]}","disambiguator":"4423637971177169123","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;10000000]}","disambiguator":"8114596719213637696","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;100000000]}","disambiguator":"5751084995603110578","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?;1000000000]}","disambiguator":"9919605185678442186","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?]}","disambiguator":"2654205313969696810","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"Layout {{ size: {}, align: {} }}","disambiguator":"639946870888163250","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"TryFromSliceError(())","disambiguator":"9618265683779419347","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"Cell {{ value: {=?} }})","disambiguator":"1468839206008940476","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"RefCell {{ value: <borrowed> }}|RefCell {{ value: {=?} }}","disambiguator":"4718006795618006234","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"BorrowError","disambiguator":"16342482305371161635","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"BorrowMutError","disambiguator":"2973952977514000811","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=i8}","disambiguator":"4731066844489999116","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=i16}","disambiguator":"5982186323216770634","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=i32}","disambiguator":"2599367664600798004","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=i64}","disambiguator":"3704487475534186256","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=i128}","disambiguator":"9945119631825723538","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=isize}","disambiguator":"13028176760702614594","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=u8}","disambiguator":"10202468925519253031","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=u16}","disambiguator":"5031463604356137723","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=u32}","disambiguator":"11289667228927971985","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=u64}","disambiguator":"14436778430552775677","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=u128}","disambiguator":"13190978049551866960","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{=usize}","disambiguator":"13040228448430197580","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"TryFromIntError(())","disambiguator":"15838004139412693146","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}..{}","disambiguator":"13264685543884572354","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}..","disambiguator":"17296393250253569651","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"..","disambiguator":"15271805462242373331","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}..={}","disambiguator":"1915048198914555535","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"..{}","disambiguator":"11886978126958958235","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"..={}","disambiguator":"1610663973911457606","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"977482717471124809","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5412914367064217619","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"1279585422292466253","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"855817748978806867","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"8540797434741648676","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"10759486005528389099","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"14715672845156772084","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"9456666102303287272","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"12967813925836273386","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"3988308557787776069","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"12267034499820753083","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"9184017520603768948","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"605973296760023219","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5935659538382091787","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"2036216210423299481","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"16978917821748755142","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"8939257954769335771","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"480395768802675491","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5463611938482628383","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"7767447008600496505","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"2963497630744311333","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"3652950497255833307","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"14234503042989076011","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"6068748193645693675","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"6320398473329423051","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5980871887402708036","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"15173918142033731477","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"2577630573440335627","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5645052740019809386","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"15414556140904381779","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"16931007860041973524","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"7592258669104562258","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"8095779950443127335","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"15440592503307612946","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"6711180706373673607","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"15974908268683833535","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5614487766568583976","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"14602566642005192677","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5681315240045695130","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5189541164090858770","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"12869132148111814378","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"3487462903292530160","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"17604536149974627595","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"15865811316654198818","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"18002646329623887913","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"3266949235067977959","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"1861291453554648141","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"6928142587242413740","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"2163358989709295995","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"11237799138058518887","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"13586566628143759196","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"15322281426291457962","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"{}","disambiguator":"5537848346550715814","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"ChunksExact(..)","disambiguator":"1300330432654062784","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"Iter {{ slice: {=[?]}, position: ? }}","disambiguator":"1995468268392516260","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"Windows(..)","disambiguator":"6985500009206751027","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"None|Some({=?})","disambiguator":"2364202503452621907","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"Err({=?})|Ok({=?})","disambiguator":"10567951801229546774","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"PhantomData","disambiguator":"8562129980497544362","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"Duration {{ secs: {=u64}, nanos: {=u32} }}","disambiguator":"4981204546383349655","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"Zip(..)","disambiguator":"17444990088938185599","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=i8}","disambiguator":"3229113629630423043","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=i16}","disambiguator":"12592538325632643555","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=i32}","disambiguator":"3746895238173416384","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=i64}","disambiguator":"8107027980655246670","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=i128}","disambiguator":"6251775031606641553","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=isize}","disambiguator":"16965082436742360473","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=u8}","disambiguator":"14100460465230513008","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=u16}","disambiguator":"5315098999487818844","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=u32}","disambiguator":"14162187385077967277","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=u64}","disambiguator":"9988507570022775015","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=u128}","disambiguator":"4911280624046452557","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=usize}","disambiguator":"3377093703983497006","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=f32}","disambiguator":"10383471704712148890","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=f64}","disambiguator":"10676019542285320254","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=str}","disambiguator":"9635981116611021278","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=bool}","disambiguator":"12258804912377148952","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=istr}","disambiguator":"17739116440256076459","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=char}","disambiguator":"11679531567504631203","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=[?]}","disambiguator":"7044545867054230009","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.{"package":"defmt","tag":"defmt_write","data":"0x{:x}","disambiguator":"12038331877033052695","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"()","disambiguator":"6735396410974573331","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?})","disambiguator":"15728198772600714276","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?})","disambiguator":"12933750404314707166","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?})","disambiguator":"11613261463523945044","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?})","disambiguator":"17960088679281882826","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"6267787481328300805","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"8715764516236238113","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"2836467147338732145","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"4854903381569787454","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"6483310249039821336","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"13695563564738155167","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"13203872826742354712","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"({=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?}, {=?})","disambiguator":"16933471155134424131","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=__internal_FormatSequence}","disambiguator":"6144288429955226596","crate_name":"defmt"}
+                0x00000000        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00011000         xr
+data             0x00802000         0x00001000         rw!x
+eeprom           0x00810000         0x00000800         rw!x
+fuse             0x00820000         0x00000006         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+LOAD /tmp/rustclA3b1W/symbols.o
+LOAD /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+LOAD /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/libcompiler_builtins-4a779721c5dd12c8.rlib
+LOAD /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a
+START GROUP
+LOAD /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a
+LOAD /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/libm.a
+LOAD /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/libc.a
+LOAD /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/libatxmega64a3.a
+END GROUP
+                0x00000000                        __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00011000]                      __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00802000]                      __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x00001000]                      __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000800]                      __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000006]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x4c2
+ *(.vectors)
+ .vectors       0x00000000      0x1e8 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000001e8                        . = ALIGN (0x2)
+                0x000001e8                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000001e8        0x0 linker stubs
+ *(.trampolines*)
+                0x000001e8                        __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x000001e8                        . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001e8                        __ctors_start = .
+ *(.ctors)
+                0x000001e8                        __ctors_end = .
+                0x000001e8                        __dtors_start = .
+ *(.dtors)
+                0x000001e8                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x000001e8        0x0 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+                0x000001e8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001e8        0xc /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001f4       0x1a /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+                0x000001f4                __do_copy_data
+ .init4         0x0000020e       0x10 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+                0x0000020e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000021e        0x8 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ *(.init9)
+ *(.text)
+ .text          0x00000226        0x4 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+                0x00000226                __vector_38
+                0x00000226                __vector_104
+                0x00000226                __vector_22
+                0x00000226                __vector_63
+                0x00000226                __vector_28
+                0x00000226                __vector_67
+                0x00000226                __vector_1
+                0x00000226                __vector_119
+                0x00000226                __vector_32
+                0x00000226                __vector_75
+                0x00000226                __vector_71
+                0x00000226                __vector_91
+                0x00000226                __vector_34
+                0x00000226                __vector_62
+                0x00000226                __vector_77
+                0x00000226                __vector_102
+                0x00000226                __vector_24
+                0x00000226                __vector_12
+                0x00000226                __vector_55
+                0x00000226                __vector_69
+                0x00000226                __vector_81
+                0x00000226                __vector_90
+                0x00000226                __vector_46
+                0x00000226                __bad_interrupt
+                0x00000226                __vector_72
+                0x00000226                __vector_114
+                0x00000226                __vector_6
+                0x00000226                __vector_110
+                0x00000226                __vector_31
+                0x00000226                __vector_92
+                0x00000226                __vector_35
+                0x00000226                __vector_78
+                0x00000226                __vector_74
+                0x00000226                __vector_117
+                0x00000226                __vector_39
+                0x00000226                __vector_107
+                0x00000226                __vector_3
+                0x00000226                __vector_105
+                0x00000226                __vector_98
+                0x00000226                __vector_23
+                0x00000226                __vector_68
+                0x00000226                __vector_30
+                0x00000226                __vector_73
+                0x00000226                __vector_45
+                0x00000226                __vector_25
+                0x00000226                __vector_93
+                0x00000226                __vector_61
+                0x00000226                __vector_11
+                0x00000226                __vector_54
+                0x00000226                __vector_99
+                0x00000226                __vector_13
+                0x00000226                __vector_17
+                0x00000226                __vector_19
+                0x00000226                __vector_56
+                0x00000226                __vector_7
+                0x00000226                __vector_49
+                0x00000226                __vector_41
+                0x00000226                __vector_86
+                0x00000226                __vector_100
+                0x00000226                __vector_101
+                0x00000226                __vector_64
+                0x00000226                __vector_88
+                0x00000226                __vector_109
+                0x00000226                __vector_43
+                0x00000226                __vector_5
+                0x00000226                __vector_113
+                0x00000226                __vector_33
+                0x00000226                __vector_76
+                0x00000226                __vector_115
+                0x00000226                __vector_47
+                0x00000226                __vector_52
+                0x00000226                __vector_37
+                0x00000226                __vector_95
+                0x00000226                __vector_103
+                0x00000226                __vector_96
+                0x00000226                __vector_89
+                0x00000226                __vector_108
+                0x00000226                __vector_4
+                0x00000226                __vector_44
+                0x00000226                __vector_82
+                0x00000226                __vector_106
+                0x00000226                __vector_118
+                0x00000226                __vector_51
+                0x00000226                __vector_9
+                0x00000226                __vector_2
+                0x00000226                __vector_21
+                0x00000226                __vector_15
+                0x00000226                __vector_66
+                0x00000226                __vector_36
+                0x00000226                __vector_79
+                0x00000226                __vector_58
+                0x00000226                __vector_70
+                0x00000226                __vector_83
+                0x00000226                __vector_29
+                0x00000226                __vector_60
+                0x00000226                __vector_121
+                0x00000226                __vector_40
+                0x00000226                __vector_85
+                0x00000226                __vector_94
+                0x00000226                __vector_8
+                0x00000226                __vector_26
+                0x00000226                __vector_48
+                0x00000226                __vector_116
+                0x00000226                __vector_112
+                0x00000226                __vector_111
+                0x00000226                __vector_80
+                0x00000226                __vector_14
+                0x00000226                __vector_84
+                0x00000226                __vector_57
+                0x00000226                __vector_53
+                0x00000226                __vector_10
+                0x00000226                __vector_50
+                0x00000226                __vector_16
+                0x00000226                __vector_59
+                0x00000226                __vector_18
+                0x00000226                __vector_97
+                0x00000226                __vector_20
+                0x00000226                __vector_42
+                0x00000226                __vector_87
+                0x00000226                __vector_65
+                0x00000226                __vector_120
+                0x0000022a                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.rust_begin_unwind
+                0x0000022a       0x3a /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text._ZN15avr_serial_dfmt12SerialLogger5write17h5d0996c1753bff3aE
+                0x00000264       0xf4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.main     0x00000358        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+                0x00000358                main
+ .text._ZN15avr_serial_dfmt20__avr_device_rt_main17h24f5f63d9cffc5f1E
+                0x0000035c       0x8e /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.__vector_27
+                0x000003ea       0xa4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+                0x000003ea                __vector_27
+ .text.unlikely._ZN4core9panicking9panic_fmt17ha9ee8a1772f86d68E
+                0x0000048e        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.unlikely._ZN4core9panicking18panic_bounds_check17h030cd239c29e8c92E
+                0x00000492        0x4 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .text.libgcc.div
+                0x00000496       0x28 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+                0x00000496                __udivmodhi4
+                0x000004be                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000004be        0x0 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+                0x000004be                exit
+                0x000004be                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000004be        0x4 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x000004c2                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x000004c2                        _etext = .
+
+.data           0x00802000       0x22 load address 0x000004c2
+                0x00802000                        PROVIDE (__data_start = .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.anon.5a103d742e791a56cbb41a6ddc6915a3.3
+                0x00802000       0x11 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .rodata.cst16  0x00802011       0x10 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ *(.gnu.linkonce.r*)
+                0x00802022                        . = ALIGN (0x2)
+ *fill*         0x00802021        0x1 
+                0x00802022                        _edata = .
+                0x00802022                        PROVIDE (__data_end = .)
+
+.bss            0x00802022       0xce
+                0x00802022                        PROVIDE (__bss_start = .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZN15avr_serial_dfmt6LOGGER17h6a26f58c18375e0eE
+                0x00802022       0xcd /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .bss.DEVICE_PERIPHERALS
+                0x008020ef        0x1 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+                0x008020ef                DEVICE_PERIPHERALS
+ *(COMMON)
+                0x008020f0                        PROVIDE (__bss_end = .)
+                0x000004c2                        __data_load_start = LOADADDR (.data)
+                0x000004e4                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008020f0        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x008020f0                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+                [!provide]                        PROVIDE (__flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0)
+                0x00000000                        PROVIDE (__flmap = DEFINED (__flmap)?__flmap:0x0)
+                0x00000000                        __do_init_flmap = 0x0
+                0x00000000                        __flmap_value = (__flmap << DEFINED (__flmap_bpos)?__flmap_bpos:0x4)
+                0x00000000                        __flmap_value_with_lock = (__flmap_value | (DEFINED (__flmap_lock) && DEFINED (__flmap_lock_mask))?(__flmap_lock && __do_init_flmap)?__flmap_lock_mask:0x0:0x0)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x400
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x380 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .debug_aranges
+                0x00000380       0x20 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x000003a0       0x20 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .debug_aranges
+                0x000003c0       0x20 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x000003e0       0x20 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x7cc5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x2c3e /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ .debug_info    0x00002c3e     0x4ff7 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .debug_info    0x00007c35       0x24 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x00007c59       0x24 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .debug_info    0x00007c7d       0x24 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .debug_info    0x00007ca1       0x24 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+
+.debug_abbrev   0x00000000     0x2fab
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x29e6 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ .debug_abbrev  0x000029e6      0x575 /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .debug_abbrev  0x00002f5b       0x14 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00002f6f       0x14 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .debug_abbrev  0x00002f83       0x14 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00002f97       0x14 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+
+.debug_line     0x00000000      0xb41
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ .debug_line    0x0000001d      0x90e /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+ .debug_line    0x0000092b       0xbd /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x000009e8       0x51 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .debug_line    0x00000a39       0x93 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .debug_line    0x00000acc       0x75 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000     0xb9f5
+ *(.debug_str)
+ .debug_str     0x00000000     0x1d78 /usr/lib/gcc/avr/13.1.0/../../../../avr/lib/avrxmega4/crtatxmega64a3.o
+ .debug_str     0x00001d78     0x9c7d /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+                               0xa004 (size before relaxing)
+ .debug_str     0x0000b9f5       0x83 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .debug_str     0x0000b9f5       0x83 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .debug_str     0x0000b9f5       0x83 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .debug_str     0x0000b9f5       0x83 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+
+.debug_loc      0x00000000      0x28a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x28a /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0xfc
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xfc /home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.avr_serial_dfmt.a0ce96d2e3be9a8d-cgu.0.rcgu.o
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000       0x77
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0x77 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_udivmodhi4.o)
+ .debug_line_str
+                0x00000077       0x77 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_exit.o)
+ .debug_line_str
+                0x00000077       0x77 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_copy_data.o)
+ .debug_line_str
+                0x00000077       0x77 /usr/lib/gcc/avr/13.1.0/avrxmega4/libgcc.a(_clear_bss.o)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(/home/johannes/git/avr-serial-dfmt/target/avr64du32/release/deps/avr_serial_dfmt-2a0be9a90397c786.elf elf32-avr)
+LOAD linker stubs

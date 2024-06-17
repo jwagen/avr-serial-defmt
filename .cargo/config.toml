@@ -1,0 +1,21 @@
+[build]
+target = "avr64du32.json"
+#rustflags="-C link-dead-code"
+
+[target.'cfg(target_arch = "avr")']
+rustflags = [
+    #"-C", "link-arg=-Tlink.x",
+    "-C", "link-arg=-Tavr-defmt.x",
+    #"-C", "link-arg=-Tdefmoeut.x",
+    "-C", "link-arg=-Wl,--verbose",
+    "--print", "link-args",
+    "-C", "link-arg=-Wl,-Map=output.map"
+]
+#runner = "pymcuprog write -m flash -f"
+runner = "./upload.sh"
+#runner = "ravedude uno -cb 57600"
+# To run in simulator, replace the line above with this:
+# runner = "simavr -m atmega328p"
+
+[unstable]
+build-std = ["core"]
